@@ -1,4 +1,4 @@
-## Olá, eu sou João Marcos , Desenvolvedor web 
+## Olá, eu sou João Marcos , Desenvolvedor web Full-Stack
 
 <div align="center">
   <a href="https://github.com/Jmaraguiar">
